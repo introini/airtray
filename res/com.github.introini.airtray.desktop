@@ -1,10 +1,10 @@
 [Desktop Entry]
 Name=COSMIC Applet Template
-Exec=cosmic-applet-template %F
+Exec=airtray %F
 Terminal=false
 Type=Application
 StartupNotify=true
-Icon=com.example.CosmicAppletTemplate
+Icon=com.github.introini.airtray
 Categories=COSMIC;Utility;
 Keywords=Folder;Manager;
 MimeType=inode/directory;
