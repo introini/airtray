@@ -1,12 +1,12 @@
 [Desktop Entry]
-Name=COSMIC Applet Template
+Name=AirTray
 Exec=airtray %F
 Terminal=false
 Type=Application
 StartupNotify=true
 Icon=com.github.introini.airtray
 Categories=COSMIC;Utility;
-Keywords=Folder;Manager;
+Keywords=Airplay;System;
 MimeType=inode/directory;
 NoDisplay=true
 X-CosmicApplet=true
