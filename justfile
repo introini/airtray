@@ -1,5 +1,5 @@
-name := 'cosmic-applet-template'
-export APPID := 'com.example.CosmicAppletTemplate'
+name := 'airtray'
+export APPID := 'com.github.introini.airtray'
 
 rootdir := ''
 prefix := '/usr'
