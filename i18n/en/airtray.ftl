@@ -1,1 +1,1 @@
-example-row = Example row
+airplay = AirPlay
